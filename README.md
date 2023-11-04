@@ -37,6 +37,4 @@ to achieve best results we tried many approch (during the numeric representation
 - NLP
 - Clustering
 
-## License
 
-This project is under the [License Name] license. See the LICENSE file for more details.
